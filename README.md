@@ -1,5 +1,5 @@
 # NewsMonkey
-![Thumbnail](https://github.com/kunalbafna3/newsapp/blob/main/homepage.PNG)
+![Thumbnail](https://github.com/kunalbafna3/NewsMonkey/blob/main/homepage.PNG)
 
 ### Description
 - NewsMonkey is a website which shows news.
