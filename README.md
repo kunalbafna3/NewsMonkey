@@ -1,4 +1,4 @@
-# Omnifood
+# NewsMonkey
 ![Thumbnail](https://github.com/kunalbafna3/newsapp/blob/main/homepage.PNG)
 
 ### Description
