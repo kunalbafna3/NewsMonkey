@@ -2,7 +2,7 @@
 ![Thumbnail](https://github.com/kunalbafna3/NewsMonkey/blob/main/homepage.PNG)
 
 ### Description
-- NewsMonkey is a website which shows news.
+- NewsMonkey is a website which shows news from API.
 - Made it on the journey of learning ReactJs. As currently learning so its incomplete.
 - To run this project:
   * clone this in local storage
